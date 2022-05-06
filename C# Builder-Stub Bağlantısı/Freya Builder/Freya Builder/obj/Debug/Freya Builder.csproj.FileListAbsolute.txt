@@ -1,0 +1,20 @@
+C:\Users\ygzat\Desktop\Freya Builder\Freya Builder\bin\Debug\Freya Builder.exe.config
+C:\Users\ygzat\Desktop\Freya Builder\Freya Builder\bin\Debug\Freya Builder.exe
+C:\Users\ygzat\Desktop\Freya Builder\Freya Builder\bin\Debug\Freya Builder.pdb
+C:\Users\ygzat\Desktop\Freya Builder\Freya Builder\obj\Debug\Freya Builder.csproj.AssemblyReference.cache
+C:\Users\ygzat\Desktop\Freya Builder\Freya Builder\obj\Debug\Freya_Builder.Form1.resources
+C:\Users\ygzat\Desktop\Freya Builder\Freya Builder\obj\Debug\Freya_Builder.Properties.Resources.resources
+C:\Users\ygzat\Desktop\Freya Builder\Freya Builder\obj\Debug\Freya Builder.csproj.GenerateResource.cache
+C:\Users\ygzat\Desktop\Freya Builder\Freya Builder\obj\Debug\Freya Builder.csproj.CoreCompileInputs.cache
+C:\Users\ygzat\Desktop\Freya Builder\Freya Builder\obj\Debug\Freya Builder.exe
+C:\Users\ygzat\Desktop\Freya Builder\Freya Builder\obj\Debug\Freya Builder.pdb
+C:\Users\ygzat\source\repos\C#\WinForms Builder\Freya Builder\Freya Builder\bin\Debug\Freya Builder.exe.config
+C:\Users\ygzat\source\repos\C#\WinForms Builder\Freya Builder\Freya Builder\bin\Debug\Freya Builder.exe
+C:\Users\ygzat\source\repos\C#\WinForms Builder\Freya Builder\Freya Builder\bin\Debug\Freya Builder.pdb
+C:\Users\ygzat\source\repos\C#\WinForms Builder\Freya Builder\Freya Builder\obj\Debug\Freya Builder.csproj.AssemblyReference.cache
+C:\Users\ygzat\source\repos\C#\WinForms Builder\Freya Builder\Freya Builder\obj\Debug\Freya_Builder.Form1.resources
+C:\Users\ygzat\source\repos\C#\WinForms Builder\Freya Builder\Freya Builder\obj\Debug\Freya_Builder.Properties.Resources.resources
+C:\Users\ygzat\source\repos\C#\WinForms Builder\Freya Builder\Freya Builder\obj\Debug\Freya Builder.csproj.GenerateResource.cache
+C:\Users\ygzat\source\repos\C#\WinForms Builder\Freya Builder\Freya Builder\obj\Debug\Freya Builder.csproj.CoreCompileInputs.cache
+C:\Users\ygzat\source\repos\C#\WinForms Builder\Freya Builder\Freya Builder\obj\Debug\Freya Builder.exe
+C:\Users\ygzat\source\repos\C#\WinForms Builder\Freya Builder\Freya Builder\obj\Debug\Freya Builder.pdb

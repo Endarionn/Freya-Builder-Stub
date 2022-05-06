@@ -1,0 +1,20 @@
+C:\Users\ygzat\Desktop\Freya Stub\Freya Stub\bin\Debug\Freya Stub.exe.config
+C:\Users\ygzat\Desktop\Freya Stub\Freya Stub\bin\Debug\Freya Stub.exe
+C:\Users\ygzat\Desktop\Freya Stub\Freya Stub\bin\Debug\Freya Stub.pdb
+C:\Users\ygzat\Desktop\Freya Stub\Freya Stub\obj\Debug\Freya Stub.csproj.AssemblyReference.cache
+C:\Users\ygzat\Desktop\Freya Stub\Freya Stub\obj\Debug\Freya_Stub.Form1.resources
+C:\Users\ygzat\Desktop\Freya Stub\Freya Stub\obj\Debug\Freya_Stub.Properties.Resources.resources
+C:\Users\ygzat\Desktop\Freya Stub\Freya Stub\obj\Debug\Freya Stub.csproj.GenerateResource.cache
+C:\Users\ygzat\Desktop\Freya Stub\Freya Stub\obj\Debug\Freya Stub.csproj.CoreCompileInputs.cache
+C:\Users\ygzat\Desktop\Freya Stub\Freya Stub\obj\Debug\Freya Stub.exe
+C:\Users\ygzat\Desktop\Freya Stub\Freya Stub\obj\Debug\Freya Stub.pdb
+C:\Users\ygzat\source\repos\C#\WinForms Builder\Freya Stub\Freya Stub\bin\Debug\Freya Stub.exe.config
+C:\Users\ygzat\source\repos\C#\WinForms Builder\Freya Stub\Freya Stub\bin\Debug\Freya Stub.exe
+C:\Users\ygzat\source\repos\C#\WinForms Builder\Freya Stub\Freya Stub\bin\Debug\Freya Stub.pdb
+C:\Users\ygzat\source\repos\C#\WinForms Builder\Freya Stub\Freya Stub\obj\Debug\Freya Stub.csproj.AssemblyReference.cache
+C:\Users\ygzat\source\repos\C#\WinForms Builder\Freya Stub\Freya Stub\obj\Debug\Freya_Stub.Form1.resources
+C:\Users\ygzat\source\repos\C#\WinForms Builder\Freya Stub\Freya Stub\obj\Debug\Freya_Stub.Properties.Resources.resources
+C:\Users\ygzat\source\repos\C#\WinForms Builder\Freya Stub\Freya Stub\obj\Debug\Freya Stub.csproj.GenerateResource.cache
+C:\Users\ygzat\source\repos\C#\WinForms Builder\Freya Stub\Freya Stub\obj\Debug\Freya Stub.csproj.CoreCompileInputs.cache
+C:\Users\ygzat\source\repos\C#\WinForms Builder\Freya Stub\Freya Stub\obj\Debug\Freya Stub.exe
+C:\Users\ygzat\source\repos\C#\WinForms Builder\Freya Stub\Freya Stub\obj\Debug\Freya Stub.pdb
